@@ -1,11 +1,11 @@
 # exampl1 - To validate the users age is able for voting
 
 
-#age=int(input("Enter the age"))
-#if age>=18:
-  #  print("User is eligible for voting")
-#else :
- #       print("User is not eligible for voting")
+age=int(input("Enter the age"))
+if age>=18:
+   print("User is eligible for voting")
+else :
+        print("User is not eligible for voting")
 
 # example2-  To check given number is positive or negative
 
