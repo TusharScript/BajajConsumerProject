@@ -1,6 +1,7 @@
 print('tushar jadhav')
 a=2
 b=2
+q=5
 z=a+b
 print(z)
 c='all theme'
@@ -9,4 +10,5 @@ print(d)
 
 l1=[1,'ajit',3.1,'tushar',8]
 print(l1[1::-1])
+
 
