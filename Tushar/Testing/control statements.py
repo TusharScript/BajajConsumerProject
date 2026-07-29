@@ -54,3 +54,18 @@
 #     if i==3:
 #         pass
 #     print(i)
+
+# 4.for loop with list function
+# print(list(range(1,10)))
+# print only odd num
+# print(list(range(1,10,2)))
+# print(list(range(0,10,3)))
+
+# print the even numbers
+# print(list(range(0,10,2)))
+
+# print the numbers in descending oreders
+# print(list(range(10,1,-1)))
+
+# print the numbers in negative order
+# print(list(range(-10,-5,2)))
