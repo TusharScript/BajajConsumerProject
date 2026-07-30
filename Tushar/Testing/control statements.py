@@ -26,7 +26,6 @@
 # while c<=10:
 #     print(c)
 #     c+=1
-
 # Use the For loop
 # for i in range(1,21,2):
 #     print(i)
